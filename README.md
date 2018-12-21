@@ -24,3 +24,5 @@ Mental Health Emergency Room Visit – Mental health conditions/ or mental illne
 Total Mental Health – Mental health conditions/ or mental illnesses refer to disorders generally characterized by dysregulation of mood, thought, and/or behavior. This is a rate per 100,000.
 
 Total Ambulatory Care Sensitive Conditions – Ambulatory Care Sensitive Conditions (ACSCs) are defined as conditions where effective community care and case management can help prevent the need for hospital admission. This is a rate per 100,000.
+
+Refrence - https://catalog.data.gov/dataset/hospitalization-discharge-rates-cee05
